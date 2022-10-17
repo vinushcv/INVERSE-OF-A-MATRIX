@@ -15,6 +15,8 @@ Prepare the lists from each linear equations and assign in np.array()
 End the program
 ## Program:
 ```python
+#developed by:vinushcv
+#reg number:22001897
 import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 B=np.linalg.inv(A)
